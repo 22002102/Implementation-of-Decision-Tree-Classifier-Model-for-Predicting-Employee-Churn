@@ -66,31 +66,28 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 ![decision tree classifier model](sam.png)
 
+![image](https://github.com/22002102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119091638/b27f0bee-6257-4551-99d1-ec9dc11f19f6)
 
 
-
-![O1](https://github.com/22002102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119091638/cfdb96f6-89e5-4c44-9812-d57cb334c6b7)
-
-![o2](https://github.com/22002102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119091638/120c2163-9f16-4241-b6c7-0250cc2ea805)
+![image](https://github.com/22002102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119091638/b37c53e3-2ac3-4dd7-a91b-981f246230ff)
 
 
-![o3](https://github.com/22002102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119091638/ddca6407-543d-4d86-921c-4e5fc2dc98ab)
+![image](https://github.com/22002102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119091638/4a33723e-f708-4b6e-8859-86e7f29301d6)
 
 
-![o4](https://github.com/22002102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119091638/8de884d1-83e0-42b2-95ee-fae0363f4df0)
+![image](https://github.com/22002102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119091638/7cd8e1df-21b7-4f4f-873f-467bc651f1bf)
 
 
-
-![o5](https://github.com/22002102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119091638/838dba59-a80f-4776-8c69-b760b4b8886d)
-
-
-![o6](https://github.com/22002102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119091638/31217d6f-da0e-4866-9787-4f91b4eb8ff4)
+![image](https://github.com/22002102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119091638/802acc2e-7ef8-4cab-a65a-30cd1e2d8817)
 
 
-![o7](https://github.com/22002102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119091638/e5628874-4c3d-42d6-991e-906e912327ac)
+![image](https://github.com/22002102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119091638/4a95c659-c93b-4ca1-8337-b3738dc760d2)
 
 
+![image](https://github.com/22002102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119091638/36c020fb-42e6-4570-8952-6a2200c4beb6)
 
+
+![image](https://github.com/22002102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119091638/a5d7faa3-6fc4-4c07-844a-720dfab0bacd)
 
 
 
